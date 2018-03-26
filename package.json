@@ -1,0 +1,23 @@
+{
+  "name": "ithub-anan",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/indexht/ithub-anan.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/indexht/ithub-anan/issues"
+  },
+  "homepage": "https://github.com/indexht/ithub-anan#readme",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
